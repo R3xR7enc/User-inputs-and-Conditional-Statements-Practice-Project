@@ -1,3 +1,4 @@
 # Learning-JS-
 Personal Projects 
-Here,In this Repository My Js Related Personal self-made Projects for practice will be posted 
+Here,In this Repository My Js Related self-made use input and conditional statements practice Project is posted
+. 
